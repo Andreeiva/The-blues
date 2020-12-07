@@ -1,0 +1,25 @@
+[{
+		"categoryId": 1,
+		"categoryTitle": "VINTAGE",
+		"categoryItemList": [{
+				"fileUrl": "https://centurylink.br.cdn.booyah.live/hls/1000017/35440224.m3u8",
+				"id": 1,
+				"imageUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2019/02/MRF2019_FulhamvChelsea.jpg",
+				"movieName": "Burnley vs Crystal Palace"
+			},
+				 {
+				"fileUrl": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+				"id": 2,
+				"imageUrl": "https://totalfootballanalysis.com/wp-content/uploads/2018/12/chelseafulham-1.jpg",
+				"movieName": "Burnley vs Crystal Palace"
+			},
+				     {
+				"fileUrl": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+				"id": 2,
+				"imageUrl": "https://chelseafc360blog.files.wordpress.com/2013/09/capture-chelsea-v-fulham.jpg",
+				"movieName": "Burnley vs Crystal Palace"
+			}
+    ]
+	}
+ 
+]     
