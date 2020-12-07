@@ -1,0 +1,23 @@
+[
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "id": 1,
+    "imageUrl": "https://media.squawka.com/images/en/2020/09/27161203/1167275_1167275_Spurs-Chelsea-Preview-1200x675.jpg",
+    "movieName": "RENNES VS CHELSEA"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8",
+    "id": 1,
+    "imageUrl": "https://footballia.net/cache/matches/b3ce64cc83ee896599c399819f539032.png",
+    "movieName": "BORRUSIA DORTMUD VS CLUB BRUGGE"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "id": 1,
+    "imageUrl": "https://footballia.net/cache/matches/b3ce64cc83ee896599c399819f539032.png",
+    "movieName": "MANCHESTER UNITED VS INSTABUL BASEKSHIR"
+  }
+]  
