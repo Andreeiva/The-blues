@@ -2,21 +2,21 @@
 		"categoryId": 1,
 		"categoryTitle": "VINTAGE",
 		"categoryItemList": [{
-				"fileUrl": "https://centurylink.br.cdn.booyah.live/hls/1000017/35440224.m3u8",
+				"fileUrl": "",
 				"id": 1,
-				"imageUrl": "https://laligaexpert.com/wp-content/uploads/2020/11/sevilla-vs-chelsea.jpg",
+				"imageUrl": "",
 				"movieName": "Burnley vs Crystal Palace"
 			},
 				 {
-				"fileUrl": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+				"fileUrl": "",
 				"id": 2,
-				"imageUrl": "https://media.squawka.com/images/en/2020/12/01121817/1178602_1178602_feature_image-x2-1.jpg",
+				"imageUrl": "",
 				"movieName": "Burnley vs Crystal Palace"
 			},
 				     {
-				"fileUrl": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+				"fileUrl": "",
 				"id": 2,
-				"imageUrl": "https://sportshub.cbsistatic.com/i/2020/12/02/2bf5e5bb-d2b4-4367-8a4f-eebc691d80e1/sev.jpg",
+				"imageUrl": "",
 				"movieName": "Burnley vs Crystal Palace"
 			}
     ]
