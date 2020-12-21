@@ -2,21 +2,21 @@
 		"categoryId": 1,
 		"categoryTitle": "LIVE NOW",
 		"categoryItemList": [{
-				"fileUrl": "https://centurylink.br.cdn.booyah.live/hls/1000017/35440224.m3u8",
+				"fileUrl": "",
 				"id": 1,
-				"imageUrl": "https://i2-prod.football.london/incoming/article19036406.ece/ALTERNATES/s1200c/0_Chelsea-Palace.jpg",
+				"imageUrl": "",
 				"movieName": "Burnley vs Crystal Palace"
 			},
 				 {
-				"fileUrl": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+				"fileUrl": "",
 				"id": 2,
-				"imageUrl": "https://i2-prod.football.london/incoming/article17606344.ece/ALTERNATES/s1200/0_Chelsea-Arsenal.jpg",
+				"imageUrl": "",
 				"movieName": "Burnley vs Crystal Palace"
 			},
 				     {
-				"fileUrl": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+				"fileUrl": "",
 				"id": 3,
-				"imageUrl": "https://i2-prod.football.london/incoming/article17606344.ece/ALTERNATES/s1200/0_Chelsea-Arsenal.jpg",
+				"imageUrl": "",
 				"movieName": "Burnley vs Crystal Palace"
 			}
     ]
