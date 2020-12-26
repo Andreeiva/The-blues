@@ -1,10 +1,31 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl": "",
-    "id": 1,
-    "imageUrl": "https://static.standard.co.uk/2020/11/24/10/PL14NewcastleFulham20NEW.jpg?width=968&auto=webp&quality=75",
-    "movieName": "RENNES VS CHELSEA"
+    "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/tnAHY8kRHi0/maxresdefault.jpg",
+    "movieName": "ARSENAL VS CHELSEA"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/tnAHY8kRHi0/maxresdefault.jpg",
+    "movieName": "ARSENAL VS CHELSEA"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2525/index.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/tnAHY8kRHi0/maxresdefault.jpg",
+    "movieName": "ARSENAL VS CHELSEA"
+},
+   {
+    "bannerCategoryId": "1",
+       "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
+    "id": 8,
+  "imageUrl": "https://i.ytimg.com/vi/tnAHY8kRHi0/maxresdefault.jpg",
+    "movieName": "ARSENAL VS CHELSEA"
   },
   {
     "bannerCategoryId": "2",
